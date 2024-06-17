@@ -1,4 +1,3 @@
-# Book
 
 | Person | Book |
 | --- | --- |
